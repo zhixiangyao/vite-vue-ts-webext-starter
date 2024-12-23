@@ -1,5 +1,6 @@
 {
   "name": "vite-vue-ts-webext-starter",
+  "displayName": "Vite WebExt Starter",
   "version": "0.0.1",
   "packageManager": "pnpm@9.15.1",
   "description": "[description]",
