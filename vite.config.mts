@@ -1,5 +1,3 @@
-/// <reference types="vitest" />
-
 import type { UserConfig } from 'vite'
 import { dirname, relative } from 'node:path'
 import Vue from '@vitejs/plugin-vue'
